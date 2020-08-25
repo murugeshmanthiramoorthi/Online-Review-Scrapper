@@ -5,6 +5,10 @@ I have also created an UI to view them easily and comfortably. Homepage of the U
 
 ![Home_page](https://github.com/murugeshmanthiramoorthi/Online-Review-Scrapper/blob/master/home_page.png)
 
+The results obtained for oneplus mobiles are shown below.
+
+![results](https://github.com/murugeshmanthiramoorthi/Online-Review-Scrapper/blob/master/results.png)
+
 ## ABOUT ME:
 Hi. I am Murugesh MANTHIRAMOORTHI, a self-taught data-scientist. 
 
