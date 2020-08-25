@@ -1,7 +1,9 @@
 # Online-Review-Scrapper
 It can scrape reviews from flipkart sites. You can go through all the reviews here instead of viewing multiple sites or pages.
 
-I have also created an UI to view them easily and comfortably. 
+I have also created an UI to view them easily and comfortably. Homepage of the UI is shown below.
+
+![Home_page](https://github.com/murugeshmanthiramoorthi/Online-Review-Scrapper/blob/master/home_page.png)
 
 ## ABOUT ME:
 Hi. I am Murugesh MANTHIRAMOORTHI, a self-taught data-scientist. 
